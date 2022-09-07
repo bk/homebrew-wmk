@@ -9,10 +9,10 @@ brew tap bk/wmk
 ...and install it:
 
 ```bash
-brew install wmk
+brew install --build-from-source wmk
 ```
 
-Now this you should be able to use the `wmk` command normally.
+Now you should be able to use the `wmk` command normally.
 
 For further information, see the [wmk documentation](https://wmk.baldr.net/).
 
