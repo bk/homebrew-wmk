@@ -1,10 +1,10 @@
 class Wmk < Formula
   desc "Flexible static site generator"
   homepage "https://wmk.baldr.net/"
-  url "https://github.com/bk/wmk/archive/refs/tags/v0.9.11.tar.gz"
-  sha256 "1d7d6828f9b13df8cdca06648c21662abc00a219e2ccf75d9b2ce610705d665e"
+  url "https://github.com/bk/wmk/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "c5725df15fc9e55267a70a403f46e9f851026576c932d5128331cdbec151dab8"
   license "MIT"
-  version "0.9.11"
+  version "1.1.0"
   depends_on "fswatch"
   depends_on "python@3.10"
   depends_on "rsync"
